@@ -1,0 +1,55 @@
+body {
+  background-color: #f3e5d7;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 80%;
+  border-radius: 30px;
+  margin: auto;
+  margin-top: 5%;
+  line-break: auto;
+}
+img {
+  border-radius: 15px;
+  width: 90%;
+  height: 60%;
+  margin-top: 5%;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  margin: 5%;
+}
+h1 {
+  color: #312e2c;
+}
+h2 {
+  color: rgba(133, 70, 50, 1);
+}
+p,
+li {
+  color: rgba(95, 86, 77, 1);
+}
+span {
+  color: rgba(133, 70, 50, 1);
+}
+.tempblah {
+  background-color: #fff7fb;
+  border-radius: 15px;
+  padding-left: 5%;
+}
+.number {
+  list-style-type: decimal;
+}
+table {
+  width: 100%;
+  text-align: left;
+  gap: 50%;
+}
+td {
+  color: rgba(133, 70, 50, 1);
+}
